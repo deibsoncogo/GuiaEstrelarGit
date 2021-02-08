@@ -20,3 +20,6 @@ Existe três tipos de controle de versão onde são os:
   * Sistemas centralizados: Temos como exemplo o CVS, Subversion e Perforce, ele deixam o projeto salvo em um servidor onde assim vários clientes conseguem usar ele, por muitos anos este foi o método mais utilizado, mais ele tem alguns problemas onde se o servidor cair os desenvolvedores não vão conseguir codar e ele fica salvo em somente um local ficando proposto a perca do mesmo
 
   * Sistemas distribuídos: Temos como exemplo o Git, Mercurial, Bazaar e Darcs, ele é o mais utilizado permitindo o controle de versão sem erros, permite que vários desenvolvedores utilize o sistema e a perca do projeto é muito baixa pois ele fica salvo em todas as maquinas que está sendo desenvolvido e temos também a opção de salvar na nuvem
+
+## Aula 05 - O que é o git
+O grande ponto forte dele é a criação de commit (Ponto na história), criar um ponto na história é pedir para o sistema criar uma lista com todas as alterações realizadas desde o último commit, essas alterações é tudo mesmo como criação, renomeação, alteração e exclusão
