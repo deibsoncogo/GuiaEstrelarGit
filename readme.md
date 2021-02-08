@@ -9,3 +9,6 @@ Iremos aprender a como instalar ele, para que serve, como funciona e o porque é
 
 ## Aula 02 - Por que este curso
 Precisamos realizar este curso para aprendemos como modificar algo sem perder o que tinha feito, salvar e arquivar o código, evitar que percamos nosso projeto ou até modificar ele voltando para oque era antes com extrema facilidade
+
+## Aula 03 - Controle de Versão
+O controle de versão ou também conhecido por Version Control System (VCS) cria um registro de alterações em um ou mais arquivos, também vamos conseguir comparar as versões, verificar quem criou aquela linha de comandos e muito mais
