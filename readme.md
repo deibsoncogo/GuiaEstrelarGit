@@ -12,3 +12,11 @@ Precisamos realizar este curso para aprendemos como modificar algo sem perder o 
 
 ## Aula 03 - Controle de Versão
 O controle de versão ou também conhecido por Version Control System (VCS) cria um registro de alterações em um ou mais arquivos, também vamos conseguir comparar as versões, verificar quem criou aquela linha de comandos e muito mais
+
+## Aula 04 - Tipos de controles de versão
+Existe três tipos de controle de versão onde são os:
+  * Sistemas locais: Que é quando temos o projeto salvo somente no nosso computador e para criar as versões criamos diversas cópias e renomeamos para algo que conseguimos identificar, este método faz o desenvolvedor ficar expostos a diversos erros irreversível
+
+  * Sistemas centralizados: Temos como exemplo o CVS, Subversion e Perforce, ele deixam o projeto salvo em um servidor onde assim vários clientes conseguem usar ele, por muitos anos este foi o método mais utilizado, mais ele tem alguns problemas onde se o servidor cair os desenvolvedores não vão conseguir codar e ele fica salvo em somente um local ficando proposto a perca do mesmo
+
+  * Sistemas distribuídos: Temos como exemplo o Git, Mercurial, Bazaar e Darcs, ele é o mais utilizado permitindo o controle de versão sem erros, permite que vários desenvolvedores utilize o sistema e a perca do projeto é muito baixa pois ele fica salvo em todas as maquinas que está sendo desenvolvido e temos também a opção de salvar na nuvem
