@@ -66,3 +66,21 @@ Para baixar este histório da nuvem devemos usar o comando abaixo
 ````
 git clone URLDoProjeto
 ````
+
+## Aula 13 - Git log
+Com o comando ````git log```` conseguimos emitir um relatório que vai mostrar diversas informações importante dos commits realizado ate o momento
+  * ID do commit
+  * Nome do criador
+  * E-mail do criado
+  * Data e hora que foi criado
+  * Descrição informado pelo dev
+
+Podemos adicionar ````--oneline```` no final para mostra um resumo das informações
+
+Para mostrar somente uma certa quantidade a partir dos últimos commits usamos no final ````-n NumeroDeCommits````
+
+Para ativar um filtro de data usamos ````--since=Ano-Mes-Dia```` para exibir os commits emitido depois da data e ````--until=Ano-Mes-Dia```` para antes
+
+Para filtrar por autor devemos usar ````--author````
+
+E o mais importante de todos é o ````--grep="Texto"```` que permite buscar algo que contenha certo texto
