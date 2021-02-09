@@ -34,3 +34,6 @@ git --version
 
 ## Aula 07 - Instalando git no windows
 A única coisa que muda do mac é tipo da maquina
+
+## Aula 08 - Instalando git no linux
+Para realizar a instalação neste tipo de sistema temos os mesmo passos
