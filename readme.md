@@ -58,3 +58,6 @@ Usamos o comando abaixo para iniciar um repositório
 ````
 git init
 ````
+
+## Aula 12 - O o git guarda o histórico do projeto
+Os dados ficam salvo em uma pasta oculta chamada de **.git**, se excluirmos ela iremos perder todo nosso histórico, por este motivo devemos mandar nosso projeto para a nuvem
