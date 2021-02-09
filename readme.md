@@ -37,3 +37,12 @@ A única coisa que muda do mac é tipo da maquina
 
 ## Aula 08 - Instalando git no linux
 Para realizar a instalação neste tipo de sistema temos os mesmo passos
+
+## Aula 09 - Configuração inicial
+Devemos falar para o git quem somos informando por exemplo nosso nome e e-mail, para realizar isso devemos usar os seguintes comandos em um terminal
+````
+git config --global user.name "Deibson Cogo"
+git config --global user.email deibsoncogo@outlook.com
+````
+
+Este e-mail precisa ser o mesmo do seu Github para evitar conflitos
