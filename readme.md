@@ -52,3 +52,9 @@ Ao usar o comando abaixo receberemos dicas tudo que o git pode fazer
 ````
 git help
 ````
+
+## Aula 11 - Iniciando um repositório
+Usamos o comando abaixo para iniciar um repositório
+````
+git init
+````
