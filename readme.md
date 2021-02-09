@@ -46,3 +46,9 @@ git config --global user.email deibsoncogo@outlook.com
 ````
 
 Este e-mail precisa ser o mesmo do seu Github para evitar conflitos
+
+## Aula 10 - Git help
+Ao usar o comando abaixo receberemos dicas tudo que o git pode fazer
+````
+git help
+````
