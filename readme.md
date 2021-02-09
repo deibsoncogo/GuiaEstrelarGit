@@ -31,3 +31,6 @@ Para verificar se a instalação aconteceu sem problema devemos abrir um novo te
 ````
 git --version
 ````
+
+## Aula 07 - Instalando git no windows
+A única coisa que muda do mac é tipo da maquina
