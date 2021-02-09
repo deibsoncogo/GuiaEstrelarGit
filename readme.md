@@ -23,3 +23,11 @@ Existe três tipos de controle de versão onde são os:
 
 ## Aula 05 - O que é o git
 O grande ponto forte dele é a criação de commit (Ponto na história), criar um ponto na história é pedir para o sistema criar uma lista com todas as alterações realizadas desde o último commit, essas alterações é tudo mesmo como criação, renomeação, alteração e exclusão
+
+## Aula 06 - Instalando git no mac
+O próprio do [Git](https://git-scm.com/downloads) mostra os passos necessário para realizar a instalação, usando o gerenciador de pacote é o método mais recomendado
+
+Para verificar se a instalação aconteceu sem problema devemos abrir um novo terminal e digitar o comando abaixo, este comando vai retornar a versão se estiver funcionando corretamente
+````
+git --version
+````
