@@ -84,3 +84,12 @@ Para ativar um filtro de data usamos ````--since=Ano-Mes-Dia```` para exibir os 
 Para filtrar por autor devemos usar ````--author````
 
 E o mais importante de todos é o ````--grep="Texto"```` que permite buscar algo que contenha certo texto
+
+## Aula 14 - O primeiro commit
+Agora iremos realizar o primeiro commit onde primeiro de tudo devemos ter algo para registrar como a criação de um arquivo, alteração ou exclusão
+
+Depois usamos o primeiro comando abaixo para selecionar todos os arquivo que sofreram uma modificação de depois criamos o commit onde todos devem conter uma descrição
+````
+git add .
+git commit -m "Commit inicial"
+````
