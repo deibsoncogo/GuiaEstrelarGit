@@ -103,3 +103,6 @@ git init
   * **Working diretory** é o momento que o arquivo é criado, excluído ou alterado
   * **Stage area** é o momento que selecionamos os arquivos para criar o commit
   * **Local repository** são os arquivos depois da criação do commit
+
+## Aula 16 - Git Workflow
+O git vai salvar as alterações criando uma copia do arquivo original, assim conseguimos modificar os pontos da história mais não conseguimos ter o mesmo arquivo na mesma etapa
