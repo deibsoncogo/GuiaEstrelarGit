@@ -112,3 +112,16 @@ O ID que é criado para cada commit automaticamente é baseado no **Hash SHA-1**
 
 ## Aula 18 - HEAD
 O head vai aponta em qual parte da história estamos como commit e linha pois podemos alterar ele
+
+## Aula 19 - Revisão prática
+Nesta aula revisamos tudo que aprendemos até o momento
+
+Também vimos que com o comando abaixo conseguimos remover um arquivo da seleção
+````
+git rm --cached file.txt
+````
+
+E com este comando conseguimos alterar a descrição do último commit
+````
+git commit --amend -m "Nova descrição"
+````
