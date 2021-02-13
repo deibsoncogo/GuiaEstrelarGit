@@ -106,3 +106,6 @@ git init
 
 ## Aula 16 - Git Workflow
 O git vai salvar as alterações criando uma copia do arquivo original, assim conseguimos modificar os pontos da história mais não conseguimos ter o mesmo arquivo na mesma etapa
+
+## Aula 17 - Hash SHA-1
+O ID que é criado para cada commit automaticamente é baseado no **Hash SHA-1** onde ele possui 40 caracteres hexadecimal, mais para a formação dele é utilizado oque realizamos nos modificações como texto utilizado e quando ocorreu, não podemos alterar ou excluir um commit sem deixar um rastro na história pois o ID já existente é utilizado na criação do próximo
