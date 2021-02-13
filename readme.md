@@ -93,3 +93,13 @@ Depois usamos o primeiro comando abaixo para selecionar todos os arquivo que sof
 git add .
 git commit -m "Commit inicial"
 ````
+
+## Aula 15 - Estágios do arquivo
+Existe três status dos arquivos do git onde para iniciar o repositório precisamos deste comando
+````
+git init
+````
+
+  * **Working diretory** é o momento que o arquivo é criado, excluído ou alterado
+  * **Stage area** é o momento que selecionamos os arquivos para criar o commit
+  * **Local repository** são os arquivos depois da criação do commit
