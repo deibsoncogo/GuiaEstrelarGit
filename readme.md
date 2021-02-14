@@ -128,3 +128,6 @@ git commit --amend -m "Nova descrição"
 
 ## Aula 20 - Adicionando arquivos com git add
 Devemos procurar criar commits pequenos para assim a descrição dele ser assertiva
+
+## Aula 21 - Editando arquivos
+Aprendemos que de uma criação para alteração de um arquivo a única coisa que muda é o que o status mostra, pois ele agrupa por tipo de evento
