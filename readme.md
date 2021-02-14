@@ -131,3 +131,9 @@ Devemos procurar criar commits pequenos para assim a descrição dele ser assert
 
 ## Aula 21 - Editando arquivos
 Aprendemos que de uma criação para alteração de um arquivo a única coisa que muda é o que o status mostra, pois ele agrupa por tipo de evento
+
+## Aula 22 - Modificações com git diff
+Com o comando abaixo conseguimos fazer o terminal mostrar um histórico detalhado das alterações captada, ele trabalha por linhas
+````
+git diff
+````
