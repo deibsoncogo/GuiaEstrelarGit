@@ -125,3 +125,6 @@ E com este comando conseguimos alterar a descrição do último commit
 ````
 git commit --amend -m "Nova descrição"
 ````
+
+## Aula 20 - Adicionando arquivos com git add
+Devemos procurar criar commits pequenos para assim a descrição dele ser assertiva
