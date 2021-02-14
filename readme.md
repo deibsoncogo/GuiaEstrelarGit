@@ -137,3 +137,9 @@ Com o comando abaixo conseguimos fazer o terminal mostrar um histórico detalhad
 ````
 git diff
 ````
+
+## Aula 23 - Git diff staged
+Na última aula usamos o diff para mostrar as alterações que possuia os arquivos na área de trabalho, para mostrar as alterações dos arquivos selecionados devemos usar este comando
+````
+git diff --staged
+````
