@@ -143,3 +143,9 @@ Na última aula usamos o diff para mostrar as alterações que possuia os arquiv
 ````
 git diff --staged
 ````
+
+## Aula 24 - Deletando arquivos
+A exclusão de um arquivo pode ser manualmente, selecionando o arquivo e dele, ou usar o comando abaixo onde ele excluirá por permanente a adicionará a edição as edições
+````
+git rm file.txt
+````
