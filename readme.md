@@ -222,3 +222,9 @@ Como já sabemos com o **diff** conseguimos criar uma lista das alterações rea
 ````
 git diff --color-words
 ````
+
+## Aula 35 - Staging e commits com atalho
+Quando já temos arquivos que está sendo rastreado conseguimos realizar uma combinação de comandos assim ganhando tempo, um único comando que vai executar o **add** e o **commit**
+````
+git commit -am "Descrição do commit"
+````
