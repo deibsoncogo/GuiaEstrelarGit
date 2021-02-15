@@ -149,3 +149,15 @@ A exclusão de um arquivo pode ser manualmente, selecionando o arquivo e dele, o
 ````
 git rm file.txt
 ````
+
+## Aula 25 - Renomeando arquivos
+A renomeação de um arquivo manualmente vai gerar um conflito no git, ao fazer isso ele vai pensar que deletamos um arquivo e criamos outro, para corrigir temos que utilizar estes comandos
+````
+git rm file.txt
+git add arquivo.txt
+````
+
+Ou realizamos a renomeação pelo comando de **mv** como abaixo
+````
+git mv file.txt arquivo.txt
+````
