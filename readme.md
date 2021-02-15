@@ -189,3 +189,9 @@ Agora aprenderemos a utilizar o **amend** que permite refazer por completo o úl
 ````
 git commit --amend -m "Nova descrição"
 ````
+
+## Aula 30 - Recuperando arquivos
+Para recuperar um arquivo podemos usar o comando abaixo onde precisamos informar o ID (Completo ou resumido) do commit e o nome do arquivo que desejamos
+````
+git checkout 2b4d61a36b4cc39c29e166b9ce20703609f8de14 -- file.txt
+````
