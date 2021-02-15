@@ -161,3 +161,9 @@ Ou realizamos a renomeação pelo comando de **mv** como abaixo
 ````
 git mv file.txt arquivo.txt
 ````
+
+## Aula 26 - Movendo arquivos
+Também teremos o mesmo problema acima quando movermos um arquivo de local, e para evitar devemos usar o mesmo comando mais um pouco diferente
+````
+git mv arquivo.txt sub/arquivo.txt
+````
