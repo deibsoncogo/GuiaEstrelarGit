@@ -195,3 +195,10 @@ Para recuperar um arquivo podemos usar o comando abaixo onde precisamos informar
 ````
 git checkout 2b4d61a36b4cc39c29e166b9ce20703609f8de14 -- file.txt
 ````
+
+## Aula 31 - Removendo arquivos não rastreados
+Para remover um arquivo que não está sendo rastreado por definitivo usamos o comando abaixo, trocando o **-f** por **-n** será exibido uma lista dos arquivo que serão excluídos
+````
+git clean -n
+git clean -f
+````
