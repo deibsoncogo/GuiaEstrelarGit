@@ -173,3 +173,9 @@ Usando o **restore** neste formato iremos fazer o arquivo voltar até a última 
 ````
 git restore readme.md
 ````
+
+## Aula 28 - Trazendo de volta do staged
+Agora se no comando **restore** adicionarmos **staged** iremos pegar o arquivo selecionado a fazer ele voltar até o seu último commit realizado, também podemos alterar o nome do arquivo por ponto para assim fazer todos os arquivos voltarem ao seu último commit
+````
+git restore --staged readme.md
+````
