@@ -202,3 +202,14 @@ Para remover um arquivo que não está sendo rastreado por definitivo usamos o c
 git clean -n
 git clean -f
 ````
+
+## Aula 32 - Revertendo um commit
+Com este comando consegui fazer o projeto voltar na história, assim desfazendo todas as alterações dos últimos 5 commit e criando um novo commit para registrar este acontecimento
+````
+git revert HEAD~5
+````
+
+Ou podemos utilizar para ele trazer de volta todas as alterações registra em um certo commit
+````
+git revert 2b4d61a36b4cc39c29e166b9ce20703609f8de14
+````
