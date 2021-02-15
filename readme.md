@@ -216,3 +216,9 @@ git revert 2b4d61a36b4cc39c29e166b9ce20703609f8de14
 
 ## Aula 33 - Iniciando um novo projeto
 Nesta aula realizamos o download de um projeto pronto onde a partir dele iremos rever tudo que já foi ensinado e aprenderemos novos comandos
+
+## Aula 34 - Adicionando e verificando alterações
+Como já sabemos com o **diff** conseguimos criar uma lista das alterações realiza em um momento, mais conseguimo resumir esta lista adicionando alguns comandos
+````
+git diff --color-words
+````
