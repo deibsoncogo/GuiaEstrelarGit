@@ -228,3 +228,12 @@ Quando já temos arquivos que está sendo rastreado conseguimos realizar uma com
 ````
 git commit -am "Descrição do commit"
 ````
+
+## Aula 36 - Ver modificações em diversos pontos da história
+Conseguimos criar uma lista das modificações realizada em commit anterior com o comando abaixo, também, conseguimos criar uma lista resumida das alterações, também conseguimos especificar os arquivos que queremos ver
+````
+git show 1d6c53d
+git show 1d6c53d --color-words
+git show ef6bc97 -- src/views/*
+````
+ 
