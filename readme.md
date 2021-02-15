@@ -237,3 +237,8 @@ git show 1d6c53d --color-words
 git show ef6bc97 -- src/views/*
 ````
  
+## Aula 37 - Ignorando arquivos e diretórios indesejados
+Existe um modo de criar regras para fazer que alguns arquivos nunca seja rastreado pelo git, para isso basta criamos um arquivo com o nome abaixo na nossa pasta raiz e adicionar o nome ou formato do arquivo que não queremos
+````
+.gitignore
+````
