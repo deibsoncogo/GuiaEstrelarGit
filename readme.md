@@ -167,3 +167,9 @@ Também teremos o mesmo problema acima quando movermos um arquivo de local, e pa
 ````
 git mv arquivo.txt sub/arquivo.txt
 ````
+
+## Aula 27 - Desfazendo modificações
+Usando o **restore** neste formato iremos fazer o arquivo voltar até a última seleção
+````
+git restore readme.md
+````
