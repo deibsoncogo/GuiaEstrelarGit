@@ -213,3 +213,6 @@ Ou podemos utilizar para ele trazer de volta todas as alterações registra em u
 ````
 git revert 2b4d61a36b4cc39c29e166b9ce20703609f8de14
 ````
+
+## Aula 33 - Iniciando um novo projeto
+Nesta aula realizamos o download de um projeto pronto onde a partir dele iremos rever tudo que já foi ensinado e aprenderemos novos comandos
