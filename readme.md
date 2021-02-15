@@ -179,3 +179,13 @@ Agora se no comando **restore** adicionarmos **staged** iremos pegar o arquivo s
 ````
 git restore --staged readme.md
 ````
+
+## Aula 29 - Corrigindo o último commit
+Como já falamos todo commit possui um ID que é formado baseando-se nas alterações existente no commit, então quando alterarmos o commit seu ID muda, quando criamos um novo commit ele utiliza o ID do commit anterior criando um vinculo
+
+Podemos alterar um commit a qualquer momento da história mais por eles serem vinculados isso se tornar algo muito avançado e perigoso
+
+Agora aprenderemos a utilizar o **amend** que permite refazer por completo o último commit, seria como pegar todas as alterações selecionadas e enviar para o último commit invés de criar um novo
+````
+git commit --amend -m "Nova descrição"
+````
